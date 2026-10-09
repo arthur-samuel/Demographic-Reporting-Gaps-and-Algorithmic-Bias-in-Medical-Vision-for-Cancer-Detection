@@ -1,0 +1,6 @@
+study_id,comparison_label,modality,model,majority_group,minority_group,auc_majority,auc_majority_lo,auc_majority_hi,auc_minority,auc_minority_lo,auc_minority_hi,source
+Yala2019,"Yala 2019, hybrid DL risk (White vs African American)",mammography_risk,Hybrid DL risk model (MGH),White,African American,0.71,0.67,0.74,0.71,0.57,0.87,Yala et al. Radiology 2019;292(1):60-66
+Gastounioti2022,"Gastounioti 2022, ProFound AI Risk (White vs Black)",mammography_risk,ProFound AI Risk 1.0,White,Black,0.67,0.61,0.72,0.70,0.65,0.76,Gastounioti et al. Cancers 2022;14(19):4803
+Daneshjou2022,"Daneshjou 2022, ModelDerm (FST I-II vs V-VI)",dermatology,ModelDerm,FST I-II,FST V-VI,0.64,0.55,0.73,0.55,0.46,0.64,Daneshjou et al. Sci Adv 2022;8(32):eabq6147
+Daneshjou2022,"Daneshjou 2022, DeepDerm (FST I-II vs V-VI)",dermatology,DeepDerm,FST I-II,FST V-VI,0.61,0.50,0.71,0.50,0.41,0.58,Daneshjou et al. Sci Adv 2022;8(32):eabq6147
+Daneshjou2022,"Daneshjou 2022, HAM10000 model (FST I-II vs V-VI)",dermatology,HAM10000 model,FST I-II,FST V-VI,0.72,0.63,0.79,0.57,0.48,0.67,Daneshjou et al. Sci Adv 2022;8(32):eabq6147

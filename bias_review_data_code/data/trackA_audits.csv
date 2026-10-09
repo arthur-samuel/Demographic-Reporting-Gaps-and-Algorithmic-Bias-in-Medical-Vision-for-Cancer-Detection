@@ -1,0 +1,31 @@
+audit_id,source,unit_type,n_units,variable,value_pct,value_text,figure3_label,figure3_group
+Muralidharan2024,"Muralidharan et al. npj Digit Med 2024;7:273",FDA summaries 1995-2023,692,race_or_ethnicity_reported,3.6,25 of 692,FDA 692: race or ethnicity reported,fda692
+Muralidharan2024,"Muralidharan et al. npj Digit Med 2024;7:273",FDA summaries 1995-2023,692,ses_reported,0.9,6 of 692,FDA 692: socioeconomic status reported,fda692
+Muralidharan2024,"Muralidharan et al. npj Digit Med 2024;7:273",FDA summaries 1995-2023,692,age_reported,19.4,134 of 692,FDA 692: age of subjects reported,fda692
+Muralidharan2024,"Muralidharan et al. npj Digit Med 2024;7:273",FDA summaries 1995-2023,692,peer_reviewed_link,1.9,,FDA 692: link to peer reviewed evidence,fda692
+Muralidharan2024,"Muralidharan et al. npj Digit Med 2024;7:273",FDA summaries 1995-2023,692,detailed_performance_results,46.1,,FDA 692: detailed performance results,fda692
+Muralidharan2024,"Muralidharan et al. npj Digit Med 2024;7:273",FDA summaries 1995-2023,692,radiology_share,76.9,532 of 692,,
+Muralidharan2024,"Muralidharan et al. npj Digit Med 2024;7:273",FDA summaries 1995-2023,692,no_sample_size,62.8,,,
+Muralidharan2024,"Muralidharan et al. npj Digit Med 2024;7:273",FDA summaries 1995-2023,692,postmarket_surveillance_study,9.0,,,
+Mehta2025,"Mehta et al. npj Digit Med 2025;8:673",FDA summaries to Dec 2024,1012,training_data_source_reported,6.7,100 minus 93.3 not reported,FDA 1012: training data source reported,fda1012
+Mehta2025,"Mehta et al. npj Digit Med 2025;8:673",FDA summaries to Dec 2024,1012,dataset_demographics_reported,23.7,,FDA 1012: dataset demographics reported,fda1012
+Mehta2025,"Mehta et al. npj Digit Med 2025;8:673",FDA summaries to Dec 2024,1012,training_set_size_reported,9.4,,FDA 1012: training set size reported,fda1012
+Mehta2025,"Mehta et al. npj Digit Med 2025;8:673",FDA summaries to Dec 2024,1012,auroc_reported,10.9,,FDA 1012: AUROC reported,fda1012
+Mehta2025,"Mehta et al. npj Digit Med 2025;8:673",FDA summaries to Dec 2024,1012,test_data_source_not_reported,75.5,,,
+Mehta2025,"Mehta et al. npj Digit Med 2025;8:673",FDA summaries to Dec 2024,1012,test_set_size_reported,23.2,,,
+Mehta2025,"Mehta et al. npj Digit Med 2025;8:673",FDA summaries to Dec 2024,1012,sensitivity_reported,23.9,,,
+Mehta2025,"Mehta et al. npj Digit Med 2025;8:673",FDA summaries to Dec 2024,1012,specificity_reported,21.7,,,
+Mehta2025,"Mehta et al. npj Digit Med 2025;8:673",FDA summaries to Dec 2024,1012,clinical_study_reported,53.1,,,
+Mehta2025,"Mehta et al. npj Digit Med 2025;8:673",FDA summaries to Dec 2024,1012,acter_mean_score_of_17,,3.3 of 17; GMLP change +0.88 (0.54 to 1.23),,
+vanLeeuwen2021,"van Leeuwen et al. Eur Radiol 2021;31:3797-3804",CE marked radiology AI products,100,any_peer_reviewed_evidence,36.0,64 of 100 had none,CE marked radiology AI: any peer reviewed evidence,ce
+vanLeeuwen2021,"van Leeuwen et al. Eur Radiol 2021;31:3797-3804",CE marked radiology AI products,100,evidence_of_clinical_impact,18.0,18 of 100,,
+Miyawaki2025,"Miyawaki et al. Eur J Cancer 2025;220:115394",Mammography AI studies,264,race_or_ethnicity_reported,25.0,0% to 25% by year (bar drawn at upper bound),Mammography AI studies: race or ethnicity reported,academic
+Daneshjou2021,"Daneshjou et al. JAMA Dermatol 2021;157(11):1362-1369",Dermatology AI studies,70,race_or_ethnicity_described,20.0,14 of 70,Dermatology AI studies: race or ethnicity described,derm
+Daneshjou2021,"Daneshjou et al. JAMA Dermatol 2021;157(11):1362-1369",Dermatology AI studies,70,skin_tone_described,10.0,7 of 70,Dermatology AI studies: skin tone described,derm
+Daneshjou2021,"Daneshjou et al. JAMA Dermatol 2021;157(11):1362-1369",Dermatology AI studies,70,images_public,24.2,of 1065291 images,,
+Wen2022,"Wen et al. Lancet Digit Health 2022;4(1):e64-e74",Public skin cancer dataset images,106950,skin_type_label,2.3,2436 of 106950,Public skin cancer images: skin type label,datasets
+Wen2022,"Wen et al. Lancet Digit Health 2022;4(1):e64-e74",Public skin cancer dataset images,106950,ethnicity_label,1.5,1585 of 106950,Public skin cancer images: ethnicity label,datasets
+Wen2022,"Wen et al. Lancet Digit Health 2022;4(1):e64-e74",Public skin cancer dataset images,106950,age_label,76.4,,,
+Celi2022,"Celi et al. PLOS Digit Health 2022;1(3):e0000022",Clinical AI papers,7314,dataset_origin_usa,40.8,,,
+Celi2022,"Celi et al. PLOS Digit Health 2022;1(3):e0000022",Clinical AI papers,7314,dataset_origin_china,13.7,,,
+Celi2022,"Celi et al. PLOS Digit Health 2022;1(3):e0000022",Clinical AI papers,7314,radiology_share,40.4,,,

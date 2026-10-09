@@ -1,0 +1,11 @@
+study,journal,model_setting,groups_compared,reported_performance,use_in_review
+Yala et al. 2019,Radiology,"Hybrid DL breast cancer risk, MGH; 3,937 test women",White vs African American,"AUC 0.71 (0.67-0.74) vs 0.71 (0.57-0.87); Tyrer-Cuzick 0.62 vs 0.45 (0.26-0.64)",Pooled
+Gastounioti et al. 2022,Cancers,"ProFound AI Risk 1.0; 176 cases, 4,963 controls",White vs Black,"AUC 0.67 (0.61-0.72) vs 0.70 (0.65-0.76)",Pooled
+Daneshjou et al. 2022,Science Advances,"ModelDerm, DeepDerm, HAM10000 model; 656 biopsied images (DDI)",FST I-II vs V-VI,"0.64 vs 0.55; 0.61 vs 0.50; 0.72 vs 0.57; dermatologists 0.75 vs 0.62",Pooled
+Omoleye et al. 2023,Radiology: AI,"Mirai, University of Chicago; 2,096 women, 46.4% of exams African American",By race,No evidence of difference across racial groups,Narrative
+Yala et al. 2022,J Clin Oncol,"Mirai, seven hospitals in five countries; 62,185 patients",By site,C-index 0.75 to 0.84 across sites,Narrative
+Nguyen et al. 2024,Radiology,"ProFound AI 3.0 on 4,855 true negative DBT exams",Race; age; density,"FP case score OR 1.5 Black, 0.7 Asian, 1.9 age 71-80; risk score OR 2.8 extremely dense",Descriptive
+Brown-Mulry et al. 2026,Nat Commun,"Lunit INSIGHT DBT, EMBED; 167,860 exams",Race; ethnicity; age,"Overall AUC 0.91; no significant difference by race, ethnicity, or age",Narrative
+Vaidya et al. 2024,Nat Med,"Pathology models, TCGA, EBRAINS, MGB",White vs Black,"AUC gaps 3.0, 10.9, 16.0 points (breast, lung, IDH1)",Descriptive
+Aggarwal 2021,JMIR Dermatol,"Melanoma vs BCC; 150 training images per group",FST I-III vs IV-V,Lower F1 for darker skin model,Narrative
+Seyyed-Kalantari et al. 2021,Nat Med,"Chest radiograph classifiers; 707,626 images, 129,819 patients",Sex; race; age; insurance,"Higher underdiagnosis in female, Black, Hispanic, age 0-20, and Medicaid patients",Narrative

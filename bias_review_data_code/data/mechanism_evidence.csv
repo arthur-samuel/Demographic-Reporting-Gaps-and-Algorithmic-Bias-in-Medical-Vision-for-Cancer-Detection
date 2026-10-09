@@ -1,0 +1,15 @@
+panel,source,label,auc_lo,auc_hi,setting
+A,Gichoya2022,Chest radiograph (3 datasets),0.91,0.99,image model
+A,Gichoya2022,"Chest CT (NLST, internal)",0.87,0.96,image model
+A,Gichoya2022,Cervical spine radiograph,0.92,0.92,image model
+A,Gichoya2022,Hand radiograph (DHA),0.87,0.90,image model
+A,Gichoya2022,Mammography (EM-Mammo),0.78,0.81,image model
+A,Gichoya2022,Body mass index alone,0.55,0.55,non-image baseline
+A,Gichoya2022,Breast density alone,0.54,0.54,non-image baseline
+A,Gichoya2022,Disease distribution alone,0.61,0.61,non-image baseline
+B,Howard2021,TCGA breast (n = 905),0.798,0.798,standard cross validation
+B,Howard2021,TCGA breast (n = 905),0.507,0.507,preserved site cross validation
+B,Howard2021,TCGA colorectal (n = 483),0.883,0.883,standard cross validation
+B,Howard2021,TCGA colorectal (n = 483),0.795,0.795,preserved site cross validation
+B,Howard2021,TCGA lung squamous (n = 422),0.789,0.789,standard cross validation
+B,Howard2021,TCGA lung squamous (n = 422),0.504,0.504,preserved site cross validation
